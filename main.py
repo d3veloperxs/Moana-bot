@@ -10,10 +10,6 @@ import logging
 from datetime import datetime, timedelta
 from typing import Optional
 
-import nextcord
-from nextcord.ext import commands, tasks
-from nextcord import Interaction, SlashOption
-from nextcord.ui import Button, View, Modal, TextInput
 
 
 # -----------------------
